@@ -5,4 +5,3 @@ print(my_square)
 print("--")
 my_square = Square(5, (4, 1))
 print(my_square)
-https://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@github.com/mahmoudfawzy22/alx-higher_level_programming
