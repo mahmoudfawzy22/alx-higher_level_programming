@@ -1,0 +1,3 @@
+in the first line assign value best to string s 
+in the second line assign s to s2
+int the third line print true because s and s2 refer to the same object

@@ -1,0 +1,3 @@
+in the first line assign Best School to s1
+in the second line assign Best School to s2
+print true because s1 and s2 refer to the same object

@@ -1,0 +1,3 @@
+in the first line assign  [1, 2, 3] to l1
+in the second line assign  [1, 2, 3] to l2
+in the third line print False because l1 and l2 don't refer to the same object

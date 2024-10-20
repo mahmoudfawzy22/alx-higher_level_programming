@@ -1,0 +1,1 @@
+print True because python make empty tuple refer to the same object
